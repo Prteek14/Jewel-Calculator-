@@ -29,7 +29,7 @@ Perfect for jewelry price tools, learning React, or integrating a custom pricing
 
 ## 📸 Screenshots
 
-![Website Screenshot](/Website_SS.png)
+![Website Screenshot](./public/Website_SS.png)
 
 ## 🌟 Future Improvements
 
