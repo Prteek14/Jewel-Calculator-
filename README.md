@@ -6,7 +6,7 @@ Perfect for jewelry price tools, learning React, or integrating a custom pricing
 
 ## 🔗 Live Demo
 
-👉 https://your-metal-calculator.netlify.app
+👉 https://gspratecalc.netlify.app
 
 
 
